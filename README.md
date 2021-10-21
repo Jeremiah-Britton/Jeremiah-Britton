@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jeremiah-Britton
 - 👀 I’m interested in Front End Web Development
 - 🌱 I’m currently learning from free code camp and udemy courses
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... codenewbie39@gmail.com
 
 <!---
